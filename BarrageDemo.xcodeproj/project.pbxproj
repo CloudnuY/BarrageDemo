@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		611B428D1D8193F7005850C0 /* Barrage.m in Sources */ = {isa = PBXBuildFile; fileRef = 611B428A1D8193F7005850C0 /* Barrage.m */; };
+		611B428E1D8193F7005850C0 /* BarrageManage.m in Sources */ = {isa = PBXBuildFile; fileRef = 611B428C1D8193F7005850C0 /* BarrageManage.m */; };
 		613B42801D8192B400ACF2B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 613B427F1D8192B400ACF2B8 /* main.m */; };
 		613B42831D8192B400ACF2B8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 613B42821D8192B400ACF2B8 /* AppDelegate.m */; };
 		613B42861D8192B400ACF2B8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 613B42851D8192B400ACF2B8 /* ViewController.m */; };
@@ -16,6 +18,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		611B42891D8193F7005850C0 /* Barrage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Barrage.h; sourceTree = "<group>"; };
+		611B428A1D8193F7005850C0 /* Barrage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Barrage.m; sourceTree = "<group>"; };
+		611B428B1D8193F7005850C0 /* BarrageManage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BarrageManage.h; sourceTree = "<group>"; };
+		611B428C1D8193F7005850C0 /* BarrageManage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BarrageManage.m; sourceTree = "<group>"; };
 		613B427B1D8192B400ACF2B8 /* BarrageDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarrageDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		613B427F1D8192B400ACF2B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		613B42811D8192B400ACF2B8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +68,10 @@
 				613B42821D8192B400ACF2B8 /* AppDelegate.m */,
 				613B42841D8192B400ACF2B8 /* ViewController.h */,
 				613B42851D8192B400ACF2B8 /* ViewController.m */,
+				611B42891D8193F7005850C0 /* Barrage.h */,
+				611B428A1D8193F7005850C0 /* Barrage.m */,
+				611B428B1D8193F7005850C0 /* BarrageManage.h */,
+				611B428C1D8193F7005850C0 /* BarrageManage.m */,
 				613B42871D8192B400ACF2B8 /* Main.storyboard */,
 				613B428A1D8192B400ACF2B8 /* Assets.xcassets */,
 				613B428C1D8192B400ACF2B8 /* LaunchScreen.storyboard */,
@@ -149,6 +159,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				611B428D1D8193F7005850C0 /* Barrage.m in Sources */,
+				611B428E1D8193F7005850C0 /* BarrageManage.m in Sources */,
 				613B42861D8192B400ACF2B8 /* ViewController.m in Sources */,
 				613B42831D8192B400ACF2B8 /* AppDelegate.m in Sources */,
 				613B42801D8192B400ACF2B8 /* main.m in Sources */,
@@ -302,6 +314,7 @@
 				613B42941D8192B400ACF2B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

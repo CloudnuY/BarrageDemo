@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  BarrageDemo
+//  CommentDemo
 //
-//  Created by Cloud on 16/9/8.
+//  Created by Cloud on 16/9/5.
 //  Copyright © 2016年 Cloud. All rights reserved.
 //
 
